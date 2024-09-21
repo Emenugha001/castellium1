@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.conial-blue{
+    background: conic-gradient(from -28deg,#0b1957,#dd2d4a, )
+}
